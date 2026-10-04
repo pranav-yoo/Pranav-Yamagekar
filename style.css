@@ -308,6 +308,11 @@ transition: all 0.2s ease-in-out;
   color: var(--color-text);
 }
 
+.section-text a{
+  color: inherit;
+  text-underline-offset: 3px;
+}
+
 /*section Decoration*/
 .section-title{
   position: relative;
